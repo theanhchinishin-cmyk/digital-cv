@@ -169,7 +169,7 @@ export default function App() {
                   - Kích thước khuyên dùng: 200x200px, file PNG hoặc JPG
                 */}
                 <img
-                  src="public/avt.jpg"
+                  src="/avt.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                   onError={(e) => {
