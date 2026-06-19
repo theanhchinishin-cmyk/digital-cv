@@ -169,7 +169,7 @@ export default function App() {
                   - Kích thước khuyên dùng: 200x200px, file PNG hoặc JPG
                 */}
                 <img
-                  src="https://api.dicebear.com/9.x/avataaars/svg?seed=default&backgroundColor=f97316&style=circle"
+                  src="public/avt.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                   onError={(e) => {
