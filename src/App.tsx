@@ -97,11 +97,11 @@ export default function App() {
       desc: "Selected for an intensive cross-disciplinary program combining IoT hardware with Large Language Models to build educational tools.",
     },
     achievements: [
+      "🥈 2nd Prize — G-BOARD JAM 2026 & TALKSHOW: LEVEL UP YOUR CAREER IN MOBILE GAME",
       "🥉 3rd Prize — City-Level Pascal Competition (Grade 6, 2018)",
       "🥉 3rd Prize — City-Level Mathematics Competition (Grade 9, 2021)",
       "IELTS 6.0 — English Proficiency (2023)",
       "3.75 GPA (2025.1)",
-      "🥈 2nd Prize — G-BOARD JAM 2026 & TALKSHOW: LEVEL UP YOUR CAREER IN MOBILE GAME",
     ],
     strengths: [
       "🤝 Strong Teamwork — Collaborate effectively and listen before building",
