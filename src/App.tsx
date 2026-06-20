@@ -79,7 +79,7 @@ function SkillTag({ name, index }: { name: string; index: number }) {
 export default function App() {
   const cv = {
     name: "Trần Thế Quang",
-    title: "EdTech Student & Frontend Developer",
+    title: "EdTech Student",
     uni: "Hanoi University of Science and Technology, Year 2",
     philosophy: '"AI sẽ là bước tiến lớn của con người."',
     email: "theanhchinishin@gmail.com",
